@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/RepFlow.Api/RepFlow.Api.csproj" />
+    <Project Path="backend/RepFlow.Application/RepFlow.Application.csproj" />
+    <Project Path="backend/RepFlow.Domain/RepFlow.Domain.csproj" />
+    <Project Path="backend/RepFlow.Infrastructure/RepFlow.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RepFlow.Application.Tests/RepFlow.Application.Tests.csproj" />
+  </Folder>
+</Solution>
+

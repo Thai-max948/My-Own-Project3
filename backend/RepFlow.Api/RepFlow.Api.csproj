@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="../RepFlow.Application/RepFlow.Application.csproj" />
+    <ProjectReference Include="../RepFlow.Infrastructure/RepFlow.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
+

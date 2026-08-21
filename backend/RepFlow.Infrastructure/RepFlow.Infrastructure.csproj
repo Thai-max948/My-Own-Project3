@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../RepFlow.Application/RepFlow.Application.csproj" />
+    <ProjectReference Include="../RepFlow.Domain/RepFlow.Domain.csproj" />
+  </ItemGroup>
+</Project>
+
